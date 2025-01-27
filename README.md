@@ -7,7 +7,7 @@ Intended output: A yellow, cartoon duck in a powerful stance against a purple ba
  
 Library used: P5.js
 
-Goals/influences: I was inspired by animated shorts I frequently see on social media. Lots of creatives make adorable, sassy characters, and there is a social media trend of cute animals "checking your vibe" as you scroll. It is often meant to be taken as a fun, positive break from doomscrolling. I also have some personal lore with stuffed animals with loved ones. One of my stuffed animals (definitely NOT influenced by my actions!) gets in a loved one's space to playfully assess their vibes. 
+Goals/influences: I was inspired by animated shorts I frequently see on social media. Lots of creatives make adorable, sassy characters, and there is a social media trend of cute animals "checking your vibe" as you scroll. It is often meant to be taken as a fun, positive break from doomscrolling. I also have some personal lore with stuffed animals. One of my stuffed animals (definitely NOT influenced by my actions!) gets in a loved one's space to playfully assess their vibes. 
 	
 Feedback: A peer of mine wrote what he thought the instructions would be upon seeing the visual output, and assessed the efficacy of the code based on intended outcomes. You can check it out under feedback.md
 
